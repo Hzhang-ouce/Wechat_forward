@@ -15,3 +15,7 @@ if __name__ == '__main__':
 
 # change 小明 to the account name that you wish to forward to
 # 把 小明 改成你要发去的微信号的名字
+
+# run 
+#pip install itchat 
+#in cmd if itchat has not been installed
