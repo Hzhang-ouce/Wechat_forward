@@ -19,3 +19,5 @@ if __name__ == '__main__':
 # run 
 #pip install itchat 
 #in cmd if itchat has not been installed
+
+# With thanks to https://github.com/littlecodersh/ItChat
